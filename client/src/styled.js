@@ -7,9 +7,10 @@ export const SVGContainer = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin: 0 0 10px 0;
 
   svg {
-    stroke: #fff;
+    stroke: white;
     stroke-width: 3px;
   }
 `;
